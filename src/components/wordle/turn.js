@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import WordleSquare from './square';
 
-import Button from 'react-bootstrap/button'
+import Button from 'react-bootstrap/Button'
 
 function WordleTurn(props) {
 

@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
-
-import Alert from 'react-bootstrap/alert'
+import Alert from 'react-bootstrap/Alert'
 
 function WordleWinStatement(props) {
 
